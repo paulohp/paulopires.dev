@@ -1,6 +1,7 @@
 ---
 title: "Node Streams"
 date: 2014-08-20 00:00:07
+description: "Veja como streams são simples e melhoram bastante seu codigo"
 ---
 
 Desde que comecei a trabalhar com Node, a uns 2 anos, buscava entender uma coisa: Stream. Até um certo momento, não era uma coisa útil pra mim, mas depois de conhecer essa abstração, acho que é impossível programar no Node.js sem conhece-la bem. Falei que tinha uma abstração, mas na realidade são duas. Streams de leitura (ReadStream), e de escrita (WriteStream). Eles são implementados ao longo de muitos objetos Node e representam o fluxo de entrada e saída de dados. Se você trabalha com Node.js, já deve ter trombado com stream por ai.

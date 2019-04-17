@@ -1,6 +1,7 @@
 ---
 title: "Iniciando com Go: Criando Pacotes"
 date: 2014-07-30 15:21:07
+description: "Como criar pacotes com Go? Do inicio a publicação"
 ---
 
 Recentemente comecei a me aprofundar em Go, e vi a necessidade de criar alguns pacotes. Como eu vim de Node.js, sou acostumado a criar modulos pra resolver alguns pequenos problemas.

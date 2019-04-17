@@ -1,6 +1,7 @@
 ---
 title: "Parseando paginas HTML com D"
 date: 2015-03-25 00:00:00
+description: "Como extrair informações de uma HTML usando a linguagem D"
 ---
 
 Se tem uma coisa que eu gosto muito de fazer é aprender coisas novas. E a área de tecnologia me permite fazer isso bem.

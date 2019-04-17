@@ -1,6 +1,7 @@
 ---
 title: "Iniciando com Go: MongoDB com mgo"
 date: 2014-07-31 23:46:07
+description: "Já pensou em usar MongoDB em seus projetos Go?"
 ---
 
 Hoje vou falar como podemos usar o MongoDB, famoso banco de dados não-relacional, em nossas aplicações Go. Para isso vamos usar o pacote mgo, do brasileiro [Gustavo Niemeyer](http://niemeyer.net/). O mgo é um pacote que tem varias funcionalidades legais, como se pode ver no seu site [aqui](http://labix.org/mgo).

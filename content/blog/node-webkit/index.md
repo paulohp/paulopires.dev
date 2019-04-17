@@ -1,6 +1,7 @@
 ---
 title: "Como começar com Node Webkit? Parte 1"
 date: 2014-05-24 12:29:07
+description: "Como fazer apps desktop só com JavaScript?"
 ---
 
 Como se não bastasse ser magico escrever JS no server e no front, agora tambem é possivel

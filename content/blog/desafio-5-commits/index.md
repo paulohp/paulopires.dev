@@ -1,6 +1,7 @@
 ---
 title: "Desafio 5 Commits"
 date: 2014-03-19 12:00:00
+description: "A ideia é incentivar maior contribuição com a comunidade open source"
 ---
 
 Desde que iniciei no mundo de programação, fui muito ligado com código aberto, open source. Foi com ele que aprendi muitas das coisas que sei hoje. Lendo código

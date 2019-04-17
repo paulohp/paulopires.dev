@@ -1,6 +1,7 @@
 ---
 title: "Javascript Idiomático"
 date: 2014-03-16 01:10:07
+description: "Como dizem por ai, código bem escrito não precisa de documentação."
 ---
 
 Javascript idiomático? what the fuck? Essa foi a primeira reação que muitos desenvolvedores por ae tiveram. "Pra que preciso escrever javascript de forma consistente? É só javascript". Bom, o fato é que o javascript tem evoluído muito no últimos anos, e com a consolidação da importância do front-end, isso só tende a aumentar.

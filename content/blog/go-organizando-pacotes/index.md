@@ -1,6 +1,7 @@
 ---
 title: "Iniciando com Go: Organizando e usando pacotes."
 date: 2014-08-19 23:00:07
+description: "Vamos ver como criar pacotes para aplicações de larga escala"
 ---
 
 Em um post anterior, falei em como criar pacotes com Go, mas muito superficialmente. De uns tempos pra cá, venho tendo a necessidade de criar estruturas para aplicações de larga escala, criando bibliotecas reutilizáveis e claro, usando pacotes de terceiros. Nesse post vou mostrar um pouco como organizar e reutilizar esses pacotes.
